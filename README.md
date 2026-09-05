@@ -98,8 +98,8 @@ Content_Monetization_Modeler/
 │
 ├── app.py
 ├── model.pkl
-├── content_monetization_modeler.ipynb
-├── youtube_ad_revenue_dataset.csv
+├── youtube.ipynb
+├── youtube_ad_revenue_dataset(1).csv
 ├── model_comparison.csv
 ├── cleaned_youtube_revenue_data.csv
 ├── requirements.txt
